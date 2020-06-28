@@ -8,7 +8,7 @@
 ### Artikelen 
 - [A.Client side en Server side](https://github.com/ManoukK/weekly-nerd-1920/wiki/A.-Client-side-en-Server-side)
 - [B. 3D perspectief in css](https://github.com/ManoukK/weekly-nerd-1920/wiki/B.-3D-perspectief-in-css)
-- [C.]()
+- [C. Stap voor stap hoe je een volledig node project opzet met een beetje PWA](https://github.com/ManoukK/weekly-nerd-1920/wiki/C.-Stap-voor-stap-hoe-je-een-volledig-node-project-opzet-met-een-beetje-PWA)
 
 
 
